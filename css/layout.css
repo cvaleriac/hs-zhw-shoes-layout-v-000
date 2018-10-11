@@ -24,4 +24,8 @@
 
 /* Positioning Classes */
 
-
+.col-1 {
+  float: left;
+  width: 32%;
+  background: #ccc;
+}
